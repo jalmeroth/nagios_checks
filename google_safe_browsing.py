@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """ Query Google Safe Browsing-API for given domain(s)
 
-
+More info: https://developers.google.com/safe-browsing/
 """
 
 try:
